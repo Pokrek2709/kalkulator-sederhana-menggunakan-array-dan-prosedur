@@ -1,6 +1,3 @@
-//Muhammad Faiz Al Azmi
-//20102037
-//S1-IF-08-A
 
 #include <iostream>
 
